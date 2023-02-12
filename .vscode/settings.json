@@ -1,0 +1,17 @@
+{
+  "sqltools.connections": [
+    {
+      "mysqlOptions": {
+        "authProtocol": "default"
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 3306,
+      "driver": "MySQL",
+      "name": "HMS",
+      "database": "HMS",
+      "username": "root"
+    }
+  ],
+  "C_Cpp.errorSquiggles": "enabled"
+}

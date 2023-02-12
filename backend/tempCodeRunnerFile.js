@@ -1,0 +1,1 @@
+(ADDTIME(${sql_start}, "1:00") > starttime AND ADDTIME(${sql_start}, "1:00") <endtime)
